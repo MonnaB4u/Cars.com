@@ -1,0 +1,32 @@
+.navbar img {
+    height: 40px;
+    border: 1px solid greenyellow;
+    border-radius: 500px;
+}
+
+.navbar{
+    text-align: center;
+}
+
+.navbar nav {
+    line-height: 30px;
+    font-size: 15px;
+    /* border-bottom: 6px solid rgb(6, 119, 113); */
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.navbar nav a:hover {
+    text-decoration: underline;
+    border-radius: 10px;
+}
+
+.signIn {
+    margin-left: 100px;
+}

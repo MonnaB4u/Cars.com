@@ -1,0 +1,15 @@
+.homePage{
+    background-image: url(../../../carsData/homePage.jpg);
+    height: 400px ;
+    background-size: 100% 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    /* background-position: 50% 50%; */
+    /* background-repeat: no-repeat; */
+}
+.homePage h1{
+    color: white;
+   
+}
+.homePage{
+}
